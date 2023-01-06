@@ -74,8 +74,8 @@ This is a repository of solved HackerRank SQL problems
 
 | Challenge  | Solution |
 | ------------- | ------------- |
-| [Placements](https://www.hackerrank.com/challenges/placements/submissions/code/306930885)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Placements.sql)  |
-| [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/submissions/code/307002167)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Symmetric%20pairs.sql)  | 
+| [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Placements.sql)  |
+| [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Symmetric%20pairs.sql)  | 
 
 <b>Alternative Queries</b>
 
