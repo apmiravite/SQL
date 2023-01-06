@@ -12,10 +12,9 @@ This is a repository of solved HackerRank SQL problems
 | [Japanese Cities'Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Japanese%20cities%20attributes.sql)  | 
 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Japanese%20cities%20names.sql)  | 
 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2001.sql)  | 
-| [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2002.sql)  | 
 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2003.sql)  | 
 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2004.sql)  | 
-| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2005.sql)  | 
+| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Weather%20observation%20station%2005.sql)  | 
 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2006.sql)  | 
 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2007.sql)  | 
 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2008.sql)  | 
@@ -26,3 +25,26 @@ This is a repository of solved HackerRank SQL problems
 | [Higher than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Higher%20than%2075%20marks.sql)  | 
 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Employee%20names.sql)  | 
 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Employee%20salaries.sql)  | 
+
+
+<b>Advanced Select</b>
+
+| Challenge  | Solution |
+| ------------- | ------------- |
+| [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Type%20of%20triangle.sql)  |
+| [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/The%20PADS.sql)  | 
+| [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Binary%20tree%20nodes.sql)  | 
+| [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/New%20companies.sql)  | 
+
+<b>Aggregation</b>
+
+| Challenge  | Solution |
+| ------------- | ------------- |
+| [Revising Aggregation - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Revising%20aggregations%20-%20the%20count%20function.sql)  |
+| [Revising Aggregation - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Revising%20aggregations%20-%20the%20sum%20function.sql)  | 
+| [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Revising%20aggregations%20-%20averages.sql)  | 
+| [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Average%20population.sql)  |
+| [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Japan%20population.sql)  |
+| [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/The%20blunder.sql)  |
+| [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Top%20earners.sql)  |
+| [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2002.sql)  | 
