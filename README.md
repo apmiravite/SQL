@@ -76,3 +76,10 @@ This is a repository of solved HackerRank SQL problems
 | ------------- | ------------- |
 | [Placements](https://www.hackerrank.com/challenges/placements/submissions/code/306930885)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Placements.sql)  |
 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/submissions/code/307002167)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Symmetric%20pairs.sql)  | 
+
+<b>Alternative Queries</b>
+
+| Challenge  | Solution |
+| ------------- | ------------- |
+| [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true)  | [MS SQL](https://github.com/apmiravite/SQL/blob/Advanced/Draw%20the%20triangle%201.sql)  |
+| [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true)  | [MS SQL](https://github.com/apmiravite/SQL/blob/Advanced/Draw%20the%20triangle%202.sql)  | 
