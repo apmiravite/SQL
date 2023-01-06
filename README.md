@@ -1,8 +1,8 @@
 # Hackerrank SQL problems
 
 Skills Certification:
-[Basic SQL](https://www.hackerrank.com/certificates/588df92a6b97)
-[Intermediate SQL](https://www.hackerrank.com/certificates/c0a60b888983)
+<br>[Basic SQL](https://www.hackerrank.com/certificates/588df92a6b97)
+<br>[Intermediate SQL](https://www.hackerrank.com/certificates/c0a60b888983)
 
 This is a repository of solved HackerRank SQL problems
 
