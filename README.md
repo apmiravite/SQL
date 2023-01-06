@@ -56,3 +56,16 @@ This is a repository of solved HackerRank SQL problems
 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2018.sql)  | 
 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2019.sql)  | 
 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Weather%20observation%20station%2020.sql)  | 
+
+<b>Basic Join</b>
+
+| Challenge  | Solution |
+| ------------- | ------------- |
+| [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Population%20census.sql)  |
+| [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/African%20cities.sql)  | 
+| [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Average%20population%20of%20each%20continent.sql)  | 
+| [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/The%20report.sql)  | 
+| [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Top%20competitors.sql)  | 
+| [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Ollivander's%20inventory.sql)  | 
+| [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Challenges.sql)  | 
+| [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Contest%20leaderboard.sql)  | 
