@@ -69,3 +69,10 @@ This is a repository of solved HackerRank SQL problems
 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Ollivander's%20inventory.sql)  | 
 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Challenges.sql)  | 
 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Contest%20leaderboard.sql)  | 
+
+<b>Advanced Join</b>
+
+| Challenge  | Solution |
+| ------------- | ------------- |
+| [Placements](https://www.hackerrank.com/challenges/placements/submissions/code/306930885)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Placements.sql)  |
+| [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/submissions/code/307002167)  | [MySQL](https://github.com/apmiravite/SQL/blob/Intermediate/Symmetric%20pairs.sql)  | 
