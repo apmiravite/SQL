@@ -51,13 +51,16 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/who%20gave%20the%20diagnosis.sql) |
 | Display the first name, last name and number of duplicate patients based on their first name and last name. Ex: A patient with an identical name can be considered a duplicate. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/duplicate%20patients.sql) |
 | Display patient's full name, height in the units feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/patient%20vital%20statistics.sql) |
-
 | Show patient_id, first_name, last_name from patients whose does not have any records in the admissions table. (Their patient_id does not exist in any admissions.patient_id rows.)| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/not%20in%20admissions%20table.sql) |
-
 | Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/max%20and%20min%20admits%20per%20day.sql) |
+| Display every patient that has at least one admission and show their most recent admission along with the patient and doctor's full name. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/last%20admit%20per%20patient.sql) |
 
-| Display the total amount of patients for each province. Order by descending. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/patients%20per%20province%20desc.sql) |
-| For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/who%20gave%20the%20diagnosis.sql) |
+<b>Hard</b>
+
+| Problem  | Solution |
+| ------------- | ------------- |
+| Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group descending.| [Solution](https://github.com/apmiravite/SQL/tree/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard) |
+
 | Display the first name, last name and number of duplicate patients based on their first name and last name. Ex: A patient with an identical name can be considered a duplicate. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/duplicate%20patients.sql) |
 | Display patient's full name, height in the units feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/patient%20vital%20statistics.sql) |
 
