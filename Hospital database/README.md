@@ -62,12 +62,9 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group descending.| [Solution](https://github.com/apmiravite/SQL/tree/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard) |
 | Show patient_id, weight, height, isObese from the patients table. Display isObese as a boolean 0 or 1. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/obese%20checker.sql) |
 | Show patient_id, first_name, last_name, and attending doctor's specialty. Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first name is 'Lisa'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/epileptic%20patients%20handled%20by%20dr%20lisa.sql) |
-
 | All patients who have gone through admissions, can see their medical documents on our site. Those patients are given a temporary password after their first admission. Show the patient_id and temp_password.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/temp%20password.sql) |
-
 | Each admission costs $50 for patients without insurance, and $10 for patients with insurance. All patients with an even patient_id have insurance. Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have insurance. Add up the admission_total cost for each has_insurance group.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/cost%20with%20and%20wo%20insurance.sql) |
-
-| Show patient_id, first_name, last_name, and attending doctor's specialty. Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first name is 'Lisa'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/epileptic%20patients%20handled%20by%20dr%20lisa.sql) |
+| Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/provinces%20with%20more%20males%20than%20females.sql) |
 
 
 
