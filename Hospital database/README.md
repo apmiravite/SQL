@@ -7,6 +7,6 @@ link to the questions: https://www.sql-practice.com/
 | Problem  | Solution |
 | ------------- | ------------- |
 |Show first name, last name, and gender of patients whose gender is 'M' | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/filter%20male%20patients.sql) |
-
+| Show first name and last name of patients who does not have allergies. (null) | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/no%20allergies%20filter.sql) |
 
 
