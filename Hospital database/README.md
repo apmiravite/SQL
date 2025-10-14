@@ -15,8 +15,7 @@ link to the questions: https://www.sql-practice.com/
 | Show first name, last name, and the full province name of each patient. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/patients%20and%20province%20names.sql) |
 | Show how many patients have a birth_date with 2010 as the birth year. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/select%20patients%20born%20in%202010.sql) |
 | Show the first_name, last_name, and height of the patient with the greatest height. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/tallest%20patient.sql) |
-| Show all columns for patients who have one of the following patient_ids:
-1,45,534,879,1000 | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/select%20patient%20IDs.sql) |
+| Show all columns for patients who have one of the following patient_ids: 1,45,534,879,1000 | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/select%20patient%20IDs.sql) |
 | Show the total number of admissions | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/admission%20count.sql) |
 | Show all the columns from admissions where the patient was admitted and discharged on the same day. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/same%20day%20discharge.sql) |
 | Show the patient id and the total number of admissions for patient_id 579. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Easy/Hospital%20database/easy/patient%20579.sql) |
