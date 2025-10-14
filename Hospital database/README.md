@@ -61,8 +61,9 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | ------------- | ------------- |
 | Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group descending.| [Solution](https://github.com/apmiravite/SQL/tree/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard) |
 
-| Display the first name, last name and number of duplicate patients based on their first name and last name. Ex: A patient with an identical name can be considered a duplicate. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/duplicate%20patients.sql) |
-| Display patient's full name, height in the units feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Medium/Hospital%20database/SQL%20Practice%20Medium/patient%20vital%20statistics.sql) |
+| Show patient_id, weight, height, isObese from the patients table. Display isObese as a boolean 0 or 1. | [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/obese%20checker.sql) |
+
+| Show patient_id, first_name, last_name, and attending doctor's specialty. Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first name is 'Lisa'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/epileptic%20patients%20handled%20by%20dr%20lisa.sql) |
 
 
 
