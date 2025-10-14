@@ -1,0 +1,3 @@
+select upper(last_name)||","||lower(first_name)
+from patients
+order by first_name desc
