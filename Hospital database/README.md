@@ -68,7 +68,6 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | We are looking for a specific patient. Pull all columns for the patient who matches the following criteria: - First_name contains an 'r' after the first two letters. - Identifies their gender as 'F' - Born in February, May, or December - Their weight would be between 60kg and 80kg - Their patient_id is an odd number - They are from the city 'Kingston'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/patient%20satisfying%20all%20conditions.sql) |
 | Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/percentage%20of%20male%20patients.sql) |
 | For each day display the total amount of admissions on that day. Display the amount changed from the previous date.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/change%20from%20previous%20day.sql) |
-
-
-
+| Sort the province names in ascending order in such a way that the province 'Ontario' is always on top.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/sort%20but%20ontario%20at%20the%20top.sql) |
+| We need a breakdown for the total amount of admissions each doctor has started each year. Show the doctor_id, doctor_full_name, specialty, year, total_admissions for that year.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/admits%20per%20doctor%20per%20year.sql) |
 
