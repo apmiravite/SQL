@@ -66,5 +66,12 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | Each admission costs $50 for patients without insurance, and $10 for patients with insurance. All patients with an even patient_id have insurance. Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have insurance. Add up the admission_total cost for each has_insurance group.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/cost%20with%20and%20wo%20insurance.sql) |
 | Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/provinces%20with%20more%20males%20than%20females.sql) |
 
+| We are looking for a specific patient. Pull all columns for the patient who matches the following criteria:
+- First_name contains an 'r' after the first two letters.
+- Identifies their gender as 'F'
+- Born in February, May, or December
+- Their weight would be between 60kg and 80kg
+- Their patient_id is an odd number
+- They are from the city 'Kingston'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/patient%20satisfying%20all%20conditions.sql) |
 
 
