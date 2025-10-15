@@ -65,7 +65,6 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 | All patients who have gone through admissions, can see their medical documents on our site. Those patients are given a temporary password after their first admission. Show the patient_id and temp_password.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/temp%20password.sql) |
 | Each admission costs $50 for patients without insurance, and $10 for patients with insurance. All patients with an even patient_id have insurance. Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have insurance. Add up the admission_total cost for each has_insurance group.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/cost%20with%20and%20wo%20insurance.sql) |
 | Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/provinces%20with%20more%20males%20than%20females.sql) |
-
 | We are looking for a specific patient. Pull all columns for the patient who matches the following criteria:
 - First_name contains an 'r' after the first two letters.
 - Identifies their gender as 'F'
@@ -73,5 +72,8 @@ Display the two results in the same row. | [Solution](https://github.com/apmirav
 - Their weight would be between 60kg and 80kg
 - Their patient_id is an odd number
 - They are from the city 'Kingston'| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/patient%20satisfying%20all%20conditions.sql) |
+| Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.| [Solution](https://github.com/apmiravite/SQL/blob/SQL-Practice-Hard/Hospital%20database/SQL%20Practice%20Hard/percentage%20of%20male%20patients.sql) |
+
+
 
 
